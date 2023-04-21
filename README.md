@@ -21,6 +21,6 @@ Jashnsaz_et_al_dir0_3node_model includes a jupyter notebook (Jashnsaz_et_al_3nod
 - quantify the posterior and evaluate correlation among model parameters
 - Evaluate model fits and predictions
 
-(Jashnsaz_et_al_dir0_3node_model/Model.png)
+![](Jashnsaz_et_al_dir0_3node_model/Model.png)
 
-(Jashnsaz_et_al_dir0_3node_model/FitsPredictions.png)
+![](Jashnsaz_et_al_dir0_3node_model/FitsPredictions.png)
