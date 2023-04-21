@@ -13,7 +13,7 @@ Jashnsaz_et_al_dir07_CellGrowth to calculate the inoculation volumes for cell cu
 
 See README.txt in each directory for more details.
 
-Jashnsaz_et_al_dir0_3node_model includes a jupyter notebook (Jashnsaz_et_al_3node_model.ipynb) to: 
+Jashnsaz_et_al_dir08_3node_model includes a jupyter notebook (Jashnsaz_et_al_3node_model.ipynb) to: 
 - Set up ODE models for regulatory networks (a 3-node model here)
 - Using the model and a set of parameters, simulate time-dependent signaling data
 - Use the simulated data to estimate model parameters using a Bayesian optimization algorithm
@@ -21,6 +21,6 @@ Jashnsaz_et_al_dir0_3node_model includes a jupyter notebook (Jashnsaz_et_al_3nod
 - quantify the posterior and evaluate correlation among model parameters
 - Evaluate model fits and predictions
 
-![](Jashnsaz_et_al_dir0_3node_model/Model.png)
+![](Jashnsaz_et_al_dir08_3node_model/Model.png)
 
-![](Jashnsaz_et_al_dir0_3node_model/FitsPredictions.png)
+![](Jashnsaz_et_al_dir08_3node_model/FitsPredictions.png)
